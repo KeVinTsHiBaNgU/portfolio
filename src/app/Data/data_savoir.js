@@ -25,6 +25,16 @@ export default function data_savoir() {
       description:
         "Capacité à engager sa responsabilité pour atteindre un objectif clairement exprimé et à signaler les éventuels freins à lever pour atteindre l’objectif.",
     },
+    {
+      nom: "Gestion du stress",
+      description:
+        "Capacité à garder le contrôle de soi pour agir efficacement face à des situations irritantes, imprévues ou stressantes.",
+    },
+    {
+      nom: "Force de proposition",
+      description:
+        "Capacité à initier, imaginer des propositions nouvelles pour résoudre les problèmes identifiés ou améliorer une situation. Être proactif.",
+    },
   ];
   return savoirs;
 }
